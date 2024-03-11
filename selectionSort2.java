@@ -22,5 +22,6 @@ public class selectionSort2 {
         selectionSort2(arr);
         printArr(arr);
        
+        
     }
 }
