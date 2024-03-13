@@ -3,3 +3,5 @@ scapy
 django
 random
 threading
+pandas
+numpy
